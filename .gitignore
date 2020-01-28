@@ -1,0 +1,4 @@
+resources/_gen
+.vscode/
+*.code-workspace
+public/
