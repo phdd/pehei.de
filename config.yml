@@ -97,7 +97,7 @@ languages:
     contentDir: content/de
     description: Software-Beratung und -Entwicklung aus Dresden
     keywords:
-      - ""
+      - "Softwareentwickler, Softwarearchitekt, Sotwareberater, Webentwickler, Mobile Anwendungen, Agile Softwareentwicklung, Testing, Virtualisierung, Java, Kotlin"
 
     menu:
       main:
