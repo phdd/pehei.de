@@ -1,4 +1,5 @@
-baseURL: https://pehei.de
+# baseURL: https://pehei.de
+baseURL: https://relaxed-mestorf-07d176.netlify.com
 
 title: Peter Heisig
 author:
@@ -19,7 +20,7 @@ dataDir: data
 layoutDir: layouts
 publishDir: public
 
-# disqusShortname: pehei
+disqusShortname: pehei
 googleAnalytics: UA-3690899-5
 
 buildDrafts: false
