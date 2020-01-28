@@ -60,10 +60,7 @@ params:
   dateformShort: 02.01.
   dateformNum: 02.01.2006
   dateformNumTime: 02.01.2006
-  
-  images:
-    - /img/peter-heisig-quad.jpg
-  
+    
   customJS: 
     - /cookieconsent.js
 
@@ -76,8 +73,19 @@ params:
   defaultTheme: dark
   themeColor: #252627
 
+  images:
+    - /img/peter-heisig-quad.jpg
+
+  image:
+    url: /img/peter-heisig-quad.jpg
+    width: 1000
+    height: 999
+
   logo:
     logoText: $ cd /home/peter
+    url: /img/peter-heisig-quad.jpg
+    width: 1000
+    height: 999
 
   social:
     - name: github
