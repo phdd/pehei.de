@@ -12,7 +12,7 @@ Deubener Straße 6
 
 ## Contact Information
 
-Phone: [0351 896 724 69](tel://035189672469)  
+Phone: [0351 275 614 60](tel://035127561460)  
 E-Mail: [kontakt@pehei.de](mailto:kontakt@pehei.de)  
 Internet: [https://pehei.de](https://pehei.de)  
 
