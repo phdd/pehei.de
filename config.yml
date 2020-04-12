@@ -1,6 +1,5 @@
 baseURL: https://pehei.de
 
-title: Peter Heisig
 author:
   name: Peter Heisig
 
@@ -53,6 +52,7 @@ privacy:
     respectDoNotTrack: true
 
 params:
+  homeTitle: Peter Heisig
   gitUrl: https://github.com/phdd/phdd.github.io/commit/
 
   dateform: 02.01.2006
@@ -99,10 +99,11 @@ params:
 languages:
   de:
     weight: 1
-    homeSubtitle: Softwareberater
+    title: Peter Heisig - Softwareberatung und Entwicklung
+    homeSubtitle: Softwareberater und Entwickler
     languageName: Deutsche
     contentDir: content/de
-    description: Software-Beratung und -Entwicklung aus Dresden
+    description: Analyse, Design, Implementierung. Full-Stack Entwicklung vom Spring Framework Backend bis zum Vue.js Frontend.
     keywords:
       - "Softwareentwickler, Softwarearchitekt, Sotwareberater, Webentwickler, Mobile Anwendungen, Agile Softwareentwicklung, Testing, Virtualisierung, Java, Kotlin"
 
@@ -129,10 +130,11 @@ languages:
 
   en:
     weight: 2
-    homeSubtitle: Software Consultant
+    title: Peter Heisig - Software Consulting and Development
+    homeSubtitle: Software Consultant and Developer
     languageName: English
     contentDir: content/en
-    description: Software consulting and engineering from Dresden
+    description: Analysis, Design, Implementation. Full stack engineering from Spring framework backend up to the Vue.js Frontend.
     keywords:
       - "Software developer, software architect, software consultant, web developer, mobile applications, agile software development, testing, virtualization, Java, Kotlin"
 
