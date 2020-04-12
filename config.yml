@@ -99,7 +99,7 @@ params:
 languages:
   de:
     weight: 1
-    homeSubtitle: Softwareingenieur
+    homeSubtitle: Softwareberater
     languageName: Deutsche
     contentDir: content/de
     description: Software-Beratung und -Entwicklung aus Dresden
@@ -129,7 +129,7 @@ languages:
 
   en:
     weight: 2
-    homeSubtitle: Software Engineer
+    homeSubtitle: Software Consultant
     languageName: English
     contentDir: content/en
     description: Software consulting and engineering from Dresden
