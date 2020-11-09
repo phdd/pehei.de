@@ -12,7 +12,7 @@ Deubener Straße 6
 
 ## Kontakt
 
-Telefon: [0351 275 614 60](tel://035127561460)  
+Telefon: [0351 217 163 76](tel://035121716376)  
 E-Mail: [kontakt@pehei.de](mailto:kontakt@pehei.de)  
 Internet: [https://pehei.de](https://pehei.de)  
 
