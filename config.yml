@@ -73,16 +73,16 @@ params:
   themeColor: #252627
 
   images:
-    - /img/peter-heisig-quad.jpg
+    - /img/peter-heisig.jpg
 
   image:
-    url: /img/peter-heisig-quad.jpg
+    url: /img/peter-heisig.jpg
     width: 1000
     height: 999
 
   logo:
     logoText: $ cd /home/peter
-    url: /img/peter-heisig-quad.jpg
+    url: /img/peter-heisig.jpg
     width: 1000
     height: 999
 
