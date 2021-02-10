@@ -103,7 +103,7 @@ languages:
     homeSubtitle: Softwareberater und Entwickler
     languageName: Deutsche
     contentDir: content/de
-    description: Analyse, Design, Implementierung. Full-Stack Entwicklung vom Spring Framework Backend bis zum Vue.js Frontend.
+    description: Beratung, Analyse, Design, Implementierung. Full-Stack Entwicklung vom Spring Framework Backend bis zum Vue.js Frontend.
     keywords:
       - "Softwareentwickler, Softwarearchitekt, Sotwareberater, Webentwickler, Mobile Anwendungen, Agile Softwareentwicklung, Testing, Virtualisierung, Java, Kotlin"
 
